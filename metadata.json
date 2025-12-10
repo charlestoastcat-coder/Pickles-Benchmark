@@ -1,0 +1,5 @@
+{
+  "name": "Pickles Benchmark",
+  "description": "The legendary Pickles hardware stress test. Ramps up CPU/GPU load linearly over time to crush processors with pickle power.",
+  "requestFramePermissions": []
+}
